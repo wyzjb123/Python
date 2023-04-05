@@ -24,5 +24,6 @@ response = requests.post(data=data,url=url,headers=headers).json()
 temp = json.dumps(response,indent=4,ensure_ascii=False)
 # with open('test_data.json', 'w',encoding='utf-8') as json_file:
 #     json_file.write(temp)
-
-print(response['assessment']['sections'][0]['items'][0]['questions'][0]['stem'])
+#items目录下进行变量遍历                  题型         题号
+#题目
+question = response['assessment']['sections'][0]['items'][0]['questions'][0]['stem'])
