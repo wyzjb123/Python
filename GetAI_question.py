@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 
 url ='http://www.yaiedu.com/api/continue_answer'
 data = {'answer_record_id':'678823'}
+#Token和cookie需要更新
 headers = {
             'Accept': 'application/vnd.edusoho.v2+json',
             'Accept-Encoding':'gzip,deflate',
@@ -27,13 +28,19 @@ temp = json.dumps(response,indent=4,ensure_ascii=False)
 #     json_file.write(temp)
 #items目录下进行变量遍历                      题型         题号
 #题目
+
 str_test = ''
 for i in range(15):
     str_test = str_test + response['assessment']['sections'][0]['items'][i]['questions'][0]['stem']
+
+#添加beautifulsoup 解析标签内容 拿到下载图片的链接
 soup = BeautifulSoup(str_test,'html.parser') 
 download_url = []
 for i in soup.find_all('img'):
     download_url.append(i['src'])
+for i in download_url:
+    r = requests.get(url, allow_redirects=True)
+    i.rsplit('/',1)[1]
 print(download_url)
 
    
