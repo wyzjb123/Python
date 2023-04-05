@@ -1,0 +1,1663 @@
+{
+    "assessment": {
+        "id": "185",
+        "name": "CL (二级)模拟试卷01",
+        "description": "<p>CL (二级)模拟试卷01</p>\n",
+        "total_score": "100.0",
+        "question_count": "23",
+        "bank_id": "44",
+        "displayable": "1",
+        "status": "open",
+        "item_count": "23",
+        "created_user_id": "77347",
+        "updated_user_id": "77347",
+        "created_time": "1655286845",
+        "updated_time": "1656990242",
+        "sections": [
+            {
+                "id": "825",
+                "assessment_id": "185",
+                "name": "单选题",
+                "seq": "1",
+                "description": "",
+                "item_count": "15",
+                "total_score": "30.0",
+                "question_count": "15",
+                "score_rule": "",
+                "created_time": "1655286845",
+                "updated_time": "1655286845",
+                "items": [
+                    {
+                        "id": "2101",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">给角色设置如下程序，点击绿旗运行程序，在程序运行过程中，舞台区不可能出现哪种情况</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17285133a8e8465670.png\" /></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/172903f82bf0200814.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2103",
+                                "item_id": "2101",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">给角色设置如下程序，点击绿旗运行程序，在程序运行过程中，舞台区不可能出现哪种情况</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17285133a8e8465670.png\" /></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/172903f82bf0200814.png\" /></p>\n",
+                                "seq": 1,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1729564c7c07242759.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173006e36cff031714.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17301468c99b590871.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173023f507b6320462.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "1",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2102",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问执行哪个选项的积木块，角色会在下列图片中的</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">X=150这条直线上随机移动</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173112007f41855500.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2104",
+                                "item_id": "2102",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问执行哪个选项的积木块，角色会在下列图片中的</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">X=150这条直线上随机移动</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173112007f41855500.png\" /></p>\n",
+                                "seq": 2,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173122a3431b010919.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17312807236d675510.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17313241d7ce625974.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1731357dae1d044989.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "2",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2104",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">舞台区如下图所示，小猫随机移动，只有在碰到大熊时说大熊，其他时候都说大象，下列选项中哪段程序可以实现这个功能</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173156cab2b8369873.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2106",
+                                "item_id": "2104",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">舞台区如下图所示，小猫随机移动，只有在碰到大熊时说大熊，其他时候都说大象，下列选项中哪段程序可以实现这个功能</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173156cab2b8369873.png\" /></p>\n",
+                                "seq": 3,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173237506d31246844.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173245d36241228728.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173253567b0b013108.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173301dada6a125338.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "D"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "3",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2105",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">裙子的造型页、程序如图所示，程序运行结束后，裙子的造型不可能的是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17332220ab1f952070.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2107",
+                                "item_id": "2105",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">裙子的造型页、程序如图所示，程序运行结束后，裙子的造型不可能的是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17332220ab1f952070.png\" /></p>\n",
+                                "seq": 4,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17340080d961629662.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17340806d951347883.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1734179a858d069842.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17342624064f032930.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "4",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2106",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">角色的程序如下图所示，角色的年龄为</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">17岁，在输入框输入17，下列程序运行结束后，角色会说什么</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173445512d64953240.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2108",
+                                "item_id": "2106",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">角色的程序如下图所示，角色的年龄为</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">17岁，在输入框输入17，下列程序运行结束后，角色会说什么</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173445512d64953240.png\" /></p>\n",
+                                "seq": 5,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>“我是成年人！”</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>“我是未成年人！”</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>什么都不说</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>先说“我是未成年人！”，再说“我是未成年人”</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "B"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "5",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2108",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列选项中，说法正确的是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17362484bc90179995.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2110",
+                                "item_id": "2108",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列选项中，说法正确的是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17362484bc90179995.png\" /></p>\n",
+                                "seq": 6,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>点击小绿旗，角色会说你好！</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>点击小绿旗，角色会开始滑行</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>点击小绿旗，角色会一边滑行，一边说你好！</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>点击小绿旗，角色什么也不做</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "6",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2109",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问程序运行结束后，</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">Duck角色的克隆体会碰到数字几：（一格的距离是60步）</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1737200a1c27293300.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2111",
+                                "item_id": "2109",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问程序运行结束后，</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">Duck角色的克隆体会碰到数字几：（一格的距离是60步）</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1737200a1c27293300.png\" /></p>\n",
+                                "seq": 7,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>5</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>6</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>8</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>9</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "7",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2110",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问执行完下列程序后，角色的造型为</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173748c714b5726073.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2112",
+                                "item_id": "2110",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问执行完下列程序后，角色的造型为</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173748c714b5726073.png\" /></p>\n",
+                                "seq": 8,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>ball-a </p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>ball-b</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>ball-d </p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p> ball-e</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "8",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2113",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列选项中，哪段程序能让角色画出图中的路线：</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1738466bd200962341.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2115",
+                                "item_id": "2113",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列选项中，哪段程序能让角色画出图中的路线：</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1738466bd200962341.png\" /></p>\n",
+                                "seq": 9,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173949511b97579689.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/173957dcc373961210.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174009906de0553901.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17401712be1f305853.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "9",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2116",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">Dog2角色的程序如下图所示，请问程序运行结束后，在舞台上最多可以看到几个Dog2</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174045dd354f798494.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2118",
+                                "item_id": "2116",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">Dog2角色的程序如下图所示，请问程序运行结束后，在舞台上最多可以看到几个Dog2</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174045dd354f798494.png\" /></p>\n",
+                                "seq": 10,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>3</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>4</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>5</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>6</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "10",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2118",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问程序运行结束后，变量</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">n的值为</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1741106f0dc2195051.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2120",
+                                "item_id": "2118",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问程序运行结束后，变量</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">n的值为</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1741106f0dc2195051.png\" /></p>\n",
+                                "seq": 11,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>-7</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>19</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>17</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>27</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "11",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2119",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问变量</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">a的值是多少时，下列积木块的结果为“false”</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1741437e7635360490.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2121",
+                                "item_id": "2119",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问变量</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">a的值是多少时，下列积木块的结果为“false”</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1741437e7635360490.png\" /></p>\n",
+                                "seq": 12,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>36</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>42</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>30</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>48</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "12",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2120",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">Monkey角色的程序如下，请问程序运行结束后，克隆体的大小是多少</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1742124b667b506606.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2122",
+                                "item_id": "2120",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">Monkey角色的程序如下，请问程序运行结束后，克隆体的大小是多少</span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1742124b667b506606.png\" /></p>\n",
+                                "seq": 13,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>10</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>40</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>30</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>50</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "D"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "13",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2123",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">下图展示的是小明周末一天的计划，请问小明</font><font face=\"宋体\">“踢足球”后，接下来会去做什么</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1742422d638c341623.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2125",
+                                "item_id": "2123",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">下图展示的是小明周末一天的计划，请问小明</font><font face=\"宋体\">“踢足球”后，接下来会去做什么</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1742422d638c341623.png\" /></p>\n",
+                                "seq": 14,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>起床刷牙洗脸</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>和同学去游乐场</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>吃早餐</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>结束</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "B"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "14",
+                        "score": "2.0",
+                        "section_id": "825"
+                    },
+                    {
+                        "id": "2124",
+                        "bank_id": "44",
+                        "type": "single_choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列积木块计算的结果是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174341d2dad9397348.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2126",
+                                "item_id": "2124",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列积木块计算的结果是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174341d2dad9397348.png\" /></p>\n",
+                                "seq": 15,
+                                "score": 2,
+                                "answer_mode": "single_choice",
+                                "response_points": [
+                                    {
+                                        "radio": {
+                                            "val": "A",
+                                            "text": "<p>14</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "B",
+                                            "text": "<p>2</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "C",
+                                            "text": "<p>6</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "radio": {
+                                            "val": "D",
+                                            "text": "<p>8</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "B"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "15",
+                        "score": "2.0",
+                        "section_id": "825"
+                    }
+                ]
+            },
+            {
+                "id": "826",
+                "assessment_id": "185",
+                "name": "多选题",
+                "seq": "2",
+                "description": "",
+                "item_count": "5",
+                "total_score": "15.0",
+                "question_count": "5",
+                "score_rule": "",
+                "created_time": "1655286845",
+                "updated_time": "1655286845",
+                "items": [
+                    {
+                        "id": "2125",
+                        "bank_id": "44",
+                        "type": "choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列说法错误的是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174451342b81446296.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2127",
+                                "item_id": "2125",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列说法错误的是</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174451342b81446296.png\" /></p>\n",
+                                "seq": 16,
+                                "score": 3,
+                                "answer_mode": "choice",
+                                "response_points": [
+                                    {
+                                        "checkbox": {
+                                            "val": "A",
+                                            "text": "<p>角色的大小会一直增加，永远不会停止</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "B",
+                                            "text": "<p>角色的大小大于100 后，不再变大</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "C",
+                                            "text": "<p>程序运行结束后，角色的大小为100</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "D",
+                                            "text": "<p>程序运行结束后，角色的大小为101</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A",
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "16",
+                        "score": "3.0",
+                        "section_id": "826"
+                    },
+                    {
+                        "id": "2126",
+                        "bank_id": "44",
+                        "type": "choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">舞台区如下图所示，小猫的程序和大象的程序如图所示，请问下列哪个选项说法是正确的</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174544889d25133948.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2128",
+                                "item_id": "2126",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">舞台区如下图所示，小猫的程序和大象的程序如图所示，请问下列哪个选项说法是正确的</font></span></span></span></span></p>\n\n<p style=\"text-align:justify;\"><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174544889d25133948.png\" /></p>\n",
+                                "seq": 17,
+                                "score": 3,
+                                "answer_mode": "choice",
+                                "response_points": [
+                                    {
+                                        "checkbox": {
+                                            "val": "A",
+                                            "text": "<p>小猫比大象先滑行到苹果的位置</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "B",
+                                            "text": "<p>大象比小猫先滑行到苹果的位置</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "C",
+                                            "text": "<p>点击绿旗，小猫会换成造型2</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "D",
+                                            "text": "<p>小猫和大象同时滑行到苹果的位置</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "B",
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "17",
+                        "score": "3.0",
+                        "section_id": "826"
+                    },
+                    {
+                        "id": "2128",
+                        "bank_id": "44",
+                        "type": "choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">以下关于</font><font face=\"宋体\">“广播”的说法正确的是</font></span></span></span></span></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2130",
+                                "item_id": "2128",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">以下关于</font><font face=\"宋体\">“广播”的说法正确的是</font></span></span></span></span></p>\n",
+                                "seq": 18,
+                                "score": 3,
+                                "answer_mode": "choice",
+                                "response_points": [
+                                    {
+                                        "checkbox": {
+                                            "val": "A",
+                                            "text": "<p>舞台可以接收到角色广播的消息</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "B",
+                                            "text": "<p>广播和广播并等待的效果是一样的</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "C",
+                                            "text": "<p>一个角色可以发送多条广播消息，也可以接收到多条广播消息</p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "D",
+                                            "text": "<p>广播指令发出后，只有其他角色可以接收到</p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A",
+                                    "C"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": false,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "18",
+                        "score": "3.0",
+                        "section_id": "826"
+                    },
+                    {
+                        "id": "2132",
+                        "bank_id": "44",
+                        "type": "choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">下列积木块的运行结果为</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">true的是</span></span></span></span></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2134",
+                                "item_id": "2132",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">下列积木块的运行结果为</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">true的是</span></span></span></span></p>\n",
+                                "seq": 19,
+                                "score": 3,
+                                "answer_mode": "choice",
+                                "response_points": [
+                                    {
+                                        "checkbox": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1748353488c8611259.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174843b2f664452857.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17485243afa9479425.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174900c4f6c5191590.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A",
+                                    "B",
+                                    "D"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": false,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "19",
+                        "score": "3.0",
+                        "section_id": "826"
+                    },
+                    {
+                        "id": "2135",
+                        "bank_id": "44",
+                        "type": "choice",
+                        "material": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列哪些选项的程序运行结束后，画笔的粗细为</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">20</span></span></span></span></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2137",
+                                "item_id": "2135",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">请问下列哪些选项的程序运行结束后，画笔的粗细为</font></span></span><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\">20</span></span></span></span></p>\n",
+                                "seq": 20,
+                                "score": 3,
+                                "answer_mode": "choice",
+                                "response_points": [
+                                    {
+                                        "checkbox": {
+                                            "val": "A",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/174948c28f18203329.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "B",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1749575ab1aa491252.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "C",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/175006eedea4644338.png\" /></p>\n"
+                                        }
+                                    },
+                                    {
+                                        "checkbox": {
+                                            "val": "D",
+                                            "text": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1750157d1919999262.png\" /></p>\n"
+                                        }
+                                    }
+                                ],
+                                "answer": [
+                                    "A",
+                                    "B",
+                                    "D"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": false,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "20",
+                        "score": "3.0",
+                        "section_id": "826"
+                    }
+                ]
+            },
+            {
+                "id": "827",
+                "assessment_id": "185",
+                "name": "材料题",
+                "seq": "3",
+                "description": "",
+                "item_count": "3",
+                "total_score": "55.0",
+                "question_count": "3",
+                "score_rule": "",
+                "created_time": "1655286845",
+                "updated_time": "1655286845",
+                "items": [
+                    {
+                        "id": "2137",
+                        "bank_id": "44",
+                        "type": "material",
+                        "material": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/17505716cd85458395.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2139",
+                                "item_id": "2137",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">编写程序，按要求实现按键小游戏</font></span></span></span></span></p>\n",
+                                "seq": 21,
+                                "score": 15,
+                                "answer_mode": "rich_text",
+                                "response_points": [
+                                    {
+                                        "rich_text": []
+                                    }
+                                ],
+                                "answer": [
+                                    "<p>此题为编程题，请自行练习</p>\n"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "21",
+                        "score": "15.0",
+                        "section_id": "827"
+                    },
+                    {
+                        "id": "2138",
+                        "bank_id": "44",
+                        "type": "material",
+                        "material": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/175126eac71e078491.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2140",
+                                "item_id": "2138",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">编写程序，按要求实现输入长方形的长和宽，输出长方形的面积</font></span></span></span></span></p>\n",
+                                "seq": 22,
+                                "score": 15,
+                                "answer_mode": "rich_text",
+                                "response_points": [
+                                    {
+                                        "rich_text": []
+                                    }
+                                ],
+                                "answer": [
+                                    "<p>此题为编程题，请自行练习</p>\n"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "22",
+                        "score": "15.0",
+                        "section_id": "827"
+                    },
+                    {
+                        "id": "2140",
+                        "bank_id": "44",
+                        "type": "material",
+                        "material": "<p><img alt=\"\" src=\"http://www.yaiedu.com/files/course/2022/06-15/1751539a86d0364882.png\" /></p>\n",
+                        "analysis": "",
+                        "category_id": "0",
+                        "difficulty": "normal",
+                        "question_num": "1",
+                        "questions": [
+                            {
+                                "id": "2142",
+                                "item_id": "2140",
+                                "stem": "<p style=\"text-align:justify;\"><span style=\"font-size:10.5pt;\"><span style=\"font-family:'Times New Roman';\"><span style=\"font-size:12pt;\"><span style=\"font-family:'宋体';\"><font face=\"宋体\">编写程序，实现别碰蝙蝠游戏</font></span></span></span></span></p>\n",
+                                "seq": 23,
+                                "score": 25,
+                                "answer_mode": "rich_text",
+                                "response_points": [
+                                    {
+                                        "rich_text": []
+                                    }
+                                ],
+                                "answer": [
+                                    "<p>此题为编程题，请自行练习</p>\n"
+                                ],
+                                "analysis": "",
+                                "attachments": [],
+                                "isDelete": 0
+                            }
+                        ],
+                        "includeImg": true,
+                        "attachments": [],
+                        "isDelete": 0,
+                        "seq": "23",
+                        "score": "25.0",
+                        "section_id": "827"
+                    }
+                ]
+            }
+        ]
+    },
+    "assessment_response": {
+        "assessment_id": "185",
+        "answer_record_id": "678823",
+        "used_time": "2515",
+        "section_responses": [
+            {
+                "section_id": 825,
+                "item_responses": [
+                    {
+                        "item_id": 2101,
+                        "question_responses": [
+                            {
+                                "question_id": 2103,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2102,
+                        "question_responses": [
+                            {
+                                "question_id": 2104,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2104,
+                        "question_responses": [
+                            {
+                                "question_id": 2106,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2105,
+                        "question_responses": [
+                            {
+                                "question_id": 2107,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2106,
+                        "question_responses": [
+                            {
+                                "question_id": 2108,
+                                "response": [
+                                    "D"
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2108,
+                        "question_responses": [
+                            {
+                                "question_id": 2110,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2109,
+                        "question_responses": [
+                            {
+                                "question_id": 2111,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2110,
+                        "question_responses": [
+                            {
+                                "question_id": 2112,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2113,
+                        "question_responses": [
+                            {
+                                "question_id": 2115,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2116,
+                        "question_responses": [
+                            {
+                                "question_id": 2118,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2118,
+                        "question_responses": [
+                            {
+                                "question_id": 2120,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2119,
+                        "question_responses": [
+                            {
+                                "question_id": 2121,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2120,
+                        "question_responses": [
+                            {
+                                "question_id": 2122,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2123,
+                        "question_responses": [
+                            {
+                                "question_id": 2125,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2124,
+                        "question_responses": [
+                            {
+                                "question_id": 2126,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_id": 826,
+                "item_responses": [
+                    {
+                        "item_id": 2125,
+                        "question_responses": [
+                            {
+                                "question_id": 2127,
+                                "response": [],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2126,
+                        "question_responses": [
+                            {
+                                "question_id": 2128,
+                                "response": [],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2128,
+                        "question_responses": [
+                            {
+                                "question_id": 2130,
+                                "response": [],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2132,
+                        "question_responses": [
+                            {
+                                "question_id": 2134,
+                                "response": [],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2135,
+                        "question_responses": [
+                            {
+                                "question_id": 2137,
+                                "response": [],
+                                "attachments": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_id": 827,
+                "item_responses": [
+                    {
+                        "item_id": 2137,
+                        "question_responses": [
+                            {
+                                "question_id": 2139,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2138,
+                        "question_responses": [
+                            {
+                                "question_id": 2140,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    },
+                    {
+                        "item_id": 2140,
+                        "question_responses": [
+                            {
+                                "question_id": 2142,
+                                "response": [
+                                    ""
+                                ],
+                                "attachments": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "answer_scene": {
+        "id": "622",
+        "name": "青少年人工智能编程水平测试CL (二级)模拟试卷01",
+        "limited_time": "120",
+        "do_times": "0",
+        "redo_interval": "0",
+        "need_score": "1",
+        "manual_marking": "1",
+        "start_time": "0",
+        "doing_look_analysis": "0",
+        "pass_score": "60.0",
+        "enable_facein": "0",
+        "created_user_id": "77261",
+        "updated_user_id": "77261",
+        "question_report_update_time": "0",
+        "last_review_time": "0",
+        "created_time": "1656990285",
+        "updated_time": "1656990285",
+        "question_report_job_name": ""
+    },
+    "answer_record": {
+        "id": "678823",
+        "answer_scene_id": "622",
+        "assessment_id": "185",
+        "answer_report_id": "0",
+        "user_id": "84964",
+        "begin_time": "1680590192",
+        "end_time": "0",
+        "used_time": "2515",
+        "status": "doing",
+        "created_time": "1680590192",
+        "updated_time": "1680668217"
+    }
+}
